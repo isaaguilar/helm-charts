@@ -10,4 +10,4 @@ helm repo add isaaguilar https://isaaguilar.github.io/helm-charts
 
 ### terraform-operator
 
-For installation and upgrading instructions see [Terraform-operator chart readme](https://github.com/isaaguilar/helm-charts/blob/main/charts/terraform-operator/README.md).
+For installation and upgrading instructions see [Terraform-operator chart readme](https://github.com/isaaguilar/helm-charts/blob/master/charts/terraform-operator/README.md).
