@@ -46,4 +46,13 @@ entries:
     urls:
     - https://github.com/isaaguilar/helm-charts/releases/download/terraform-operator-v0.1.0/terraform-operator-v0.1.0.tgz
     version: v0.1.0
+  - apiVersion: v1alpha1
+    appVersion: v0.2.0-beta.4
+    created: "2020-09-22T16:13:32.02372082Z"
+    description: A Helm chart to deploy the terraform-operator Controller and CRD.
+    digest: 9b4ef643daac8c152448318f834ca0ecf5bddeaa5024f4e6a5ee24189b9fd1ea
+    name: terraform-operator
+    urls:
+    - https://github.com/isaaguilar/helm-charts/releases/download/terraform-operator-v0.0.0-test.1/terraform-operator-v0.0.0-test.1.tgz
+    version: v0.0.0-test.1
 generated: "2020-09-10T06:56:01.127045195Z"
